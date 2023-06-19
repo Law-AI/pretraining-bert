@@ -2,6 +2,7 @@
 
 This repository contains the codes for pre-training a BERT-base model on a large, un-annotated corpus of text using dynamic Masked Language Modeling (MLM) and dynamic Next Sentence Prediction (NSP).
 All settings in this repository are configured for replicating the pre-training procedure of [InLegalBERT](https://huggingface.co/law-ai/InLegalBERT).
+For details please refer to our paper ["Pre-trained Language Models for the Legal Domain: A Case Study on Indian Law"](https://arxiv.org/abs/2209.06049).
 
 ## In this Repository
 

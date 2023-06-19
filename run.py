@@ -13,8 +13,8 @@ from model import *
 from training import *
 
 ###################################################
-OUTPUT_PATH = "ilinkbert-rand-rt"
-SOURCE_PATH = "michiyasunaga/LinkBERT-base"
+SOURCE_PATH = "nlpaueb/legal-bert-base-uncased"
+OUTPUT_PATH = "InLegalBERT"
 CACHE_PATH = "Cache"
 FROM_SCRATCH = False
 ###################################################
